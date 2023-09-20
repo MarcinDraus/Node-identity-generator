@@ -1,0 +1,122 @@
+[
+  {
+    "gender": "F",
+    "firstName": "Patricia",
+    "lastName": "Smith",
+    "age": 49
+  },
+  {
+    "gender": "F",
+    "firstName": "Patricia",
+    "lastName": "Brown",
+    "age": 23
+  },
+  {
+    "gender": "M",
+    "firstName": "William",
+    "lastName": "Brown",
+    "age": 25
+  },
+  {
+    "gender": "F",
+    "firstName": "Patricia",
+    "lastName": "Smith",
+    "age": 71
+  },
+  {
+    "gender": "M",
+    "firstName": "William",
+    "lastName": "Brown",
+    "age": 42
+  },
+  {
+    "gender": "M",
+    "firstName": "William",
+    "lastName": "Smith",
+    "age": 25
+  },
+  {
+    "gender": "F",
+    "firstName": "Mary",
+    "lastName": "Brown",
+    "age": 51
+  },
+  {
+    "gender": "M",
+    "firstName": "Robert",
+    "lastName": "Johnson",
+    "age": 77
+  },
+  {
+    "gender": "F",
+    "firstName": "Linda",
+    "lastName": "Brown",
+    "age": 75
+  },
+  {
+    "gender": "F",
+    "firstName": "Patricia",
+    "lastName": "Smith",
+    "age": 39
+  },
+  {
+    "gender": "M",
+    "firstName": "Robert",
+    "lastName": "Davis",
+    "age": 46
+  },
+  {
+    "gender": "F",
+    "firstName": "Linda",
+    "lastName": "Johnson",
+    "age": 47
+  },
+  {
+    "gender": "M",
+    "firstName": "William",
+    "lastName": "Johnson",
+    "age": 31
+  },
+  {
+    "gender": "F",
+    "firstName": "Linda",
+    "lastName": "Davis",
+    "age": 62
+  },
+  {
+    "gender": "F",
+    "firstName": "Mary",
+    "lastName": "Smith",
+    "age": 27
+  },
+  {
+    "gender": "M",
+    "firstName": "Michael",
+    "lastName": "Smith",
+    "age": 27
+  },
+  {
+    "gender": "F",
+    "firstName": "Linda",
+    "lastName": "Brown",
+    "age": 64
+  },
+  {
+    "gender": "F",
+    "firstName": "Patricia",
+    "lastName": "Davis",
+    "age": 38
+  },
+  {
+    "gender": "F",
+    "firstName": "Linda",
+    "lastName": "Brown",
+    "age": 43
+  },
+  {
+    "gender": "F",
+    "firstName": "Patricia",
+    "lastName": "Davis",
+    "age": 75
+  }
+]
